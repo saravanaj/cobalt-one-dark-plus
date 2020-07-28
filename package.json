@@ -2,9 +2,9 @@
     "name": "cobalt-one-dark-plus",
     "displayName": "Cobalt One Dark+",
     "description": "Cobalt2 workbench theme + One Dark colors",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "images/icon.png",
-    "publisher": "saravanaj",
+    "publisher": "vs-publisher-403103",
     "author": {
         "name": "saravanaj"
     },
@@ -14,6 +14,7 @@
     "categories": [
         "Themes"
     ],
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/saravanaj/cobalt-one-dark-plus.git"
