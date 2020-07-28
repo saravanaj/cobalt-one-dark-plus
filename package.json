@@ -1,0 +1,28 @@
+{
+    "name": "cobalt-one-dark-plus",
+    "displayName": "Cobalt One Dark+",
+    "description": "Cobalt2 workbench theme + One Dark colors",
+    "version": "0.0.1",
+    "icon": "images/icon.png",
+    "publisher": "saravanaj",
+    "author": {
+        "name": "saravanaj"
+    },
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/saravanaj/cobalt-one-dark-plus.git"
+    },
+    "contributes": {
+        "themes": [{
+            "label": "Cobalt One Dark+",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Cobalt One Dark Plus-color-theme.json"
+        }]
+    }
+}
