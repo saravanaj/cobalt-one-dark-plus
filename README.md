@@ -10,6 +10,9 @@ Combination of Cobalt2 workbench theme + One Dark colors for Visual Studio Code.
 ### HTML
 ![HTML](images/html-1.png "HTML")
 
+## Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=vs-publisher-403103.cobalt-one-dark-plus
+
 ## Credits
 - Cobalt2 by Wes Bos: https://github.com/wesbos/cobalt2
 - Atom One Dark Theme: https://github.com/atom/one-dark-syntax
