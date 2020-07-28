@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.3
+
+- Fix colors in JS/JSX and workbench
+
 ## v0.0.2
 
 - Add license
