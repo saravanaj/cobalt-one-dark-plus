@@ -1,29 +1,36 @@
 {
-    "name": "cobalt-one-dark-plus",
-    "displayName": "Cobalt One Dark+",
-    "description": "Cobalt2 workbench theme + One Dark colors",
-    "version": "0.0.2",
-    "icon": "images/icon.png",
-    "publisher": "vs-publisher-403103",
-    "author": {
-        "name": "saravanaj"
-    },
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/saravanaj/cobalt-one-dark-plus.git"
-    },
-    "contributes": {
-        "themes": [{
-            "label": "Cobalt One Dark+",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Cobalt One Dark Plus-color-theme.json"
-        }]
-    }
+	"name": "cobalt-one-dark-plus",
+	"displayName": "Cobalt One Dark+",
+	"description": "Cobalt2 workbench theme + One Dark colors",
+	"version": "0.0.2",
+	"icon": "images/icon.png",
+	"publisher": "vs-publisher-403103",
+	"author": {
+		"name": "saravanaj"
+	},
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/saravanaj/cobalt-one-dark-plus.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cobalt One Dark+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cobalt One Dark Plus-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "022e5072-fdc7-4706-9dc0-30bc7cc71498",
+		"publisherDisplayName": "Saravana J",
+		"publisherId": "da2962a8-9ec6-42cc-91c2-c97a539ed050"
+	}
 }
